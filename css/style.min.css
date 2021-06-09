@@ -1,0 +1,17 @@
+body{font-family:'Open Sans',sans-serif;background-color:#000000;color:#000000;font-size:13px;text-align:center;}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td{background:transparent;border:0;margin:0;padding:0;vertical-align:baseline;outline:0;}
+h1{font:600 50px "Open Sans",sans-serif;letter-spacing:-3px;margin-bottom:0px;}
+h2{font:400 30px "Open Sans";letter-spacing:-2px;}
+h3{font:600 20px "Open Sans";letter-spacing:-1px;}
+p{font-family:"Open Sans",sans-serif;font-size:15px;line-height:22px;color:#888888;margin:10px 0;}
+a{color:#000000;font-weight:600;text-decoration:none;}
+p a{color:#000000;text-decoration:none;}
+html{user-select:none;-moz-user-select:none;-khtml-user-select:none;-ms-user-select:none;-webkit-user-select:none;-o-user-select:none;}
+li{user-select:text;-moz-user-select:text;-khtml-user-select:text;-ms-user-select:text;-webkit-user-select:text;-o-user-select:text;}
+.stitched{padding:20px;margin:10px;background:#ffffff;color:#000000;font-size:21px;font-weight:bold;line-height:1.3em;border:2px dashed #aaa;border-radius:10px;box-shadow:0 0 0 4px #ffffff,2px 1px 6px 4px rgba(10,10,0,0.5);font-weight:normal;display:inline-block;}
+.container{display:inline-block;margin:10px;}
+a:hover{color:#555555;}
+.logo{margin:15px;}
+.geometrize_widget{border:0;margin:0;padding:0;width:auto;height:100vh;}
+.geometrize_canvas{border:0;margin:0 auto;padding:0;width:auto;height:100vh;display:block;}
+iframe{width:200px;overflow:hidden;}
